@@ -1,0 +1,16 @@
+{
+  "name": "prato-do-dia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": ["nodejs", "cucumberjs", "bdd", "javascript"],
+  "author": "Loraine Garutti",
+  "license": "ISC",
+  "devDependencies": {
+    "cucumber": "^6.0.5"
+  },
+  "dependencies": {},
+  "description": ""
+}
