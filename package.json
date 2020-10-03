@@ -5,11 +5,16 @@
   "scripts": {
     "test": "cucumber-js"
   },
-  "keywords": ["nodejs", "cucumberjs", "bdd", "javascript"],
+  "keywords": [
+    "nodejs",
+    "cucumberjs",
+    "bdd",
+    "javascript"
+  ],
   "author": "Loraine Garutti",
   "license": "ISC",
   "devDependencies": {
-    "cucumber": "^6.0.5"
+    "@cucumber/cucumber": "^7.0.0-rc.0"
   },
   "dependencies": {},
   "description": ""
